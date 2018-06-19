@@ -14,6 +14,12 @@
 		C3D6C04220D979F7009247E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3D6C04020D979F7009247E6 /* LaunchScreen.storyboard */; };
 		C3D6C04D20D979F7009247E6 /* MonopolyDosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D6C04C20D979F7009247E6 /* MonopolyDosTests.swift */; };
 		C3D6C05820D979F7009247E6 /* MonopolyDosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D6C05720D979F7009247E6 /* MonopolyDosUITests.swift */; };
+		C3D6C06B20D97A35009247E6 /* dice3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6C06520D97A34009247E6 /* dice3.jpg */; };
+		C3D6C06C20D97A35009247E6 /* dice1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6C06620D97A34009247E6 /* dice1.jpg */; };
+		C3D6C06D20D97A35009247E6 /* dice4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6C06720D97A34009247E6 /* dice4.jpg */; };
+		C3D6C06E20D97A35009247E6 /* dice2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6C06820D97A35009247E6 /* dice2.jpg */; };
+		C3D6C06F20D97A35009247E6 /* dice5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6C06920D97A35009247E6 /* dice5.jpg */; };
+		C3D6C07020D97A35009247E6 /* dice6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3D6C06A20D97A35009247E6 /* dice6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,12 @@
 		C3D6C05320D979F7009247E6 /* MonopolyDosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MonopolyDosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3D6C05720D979F7009247E6 /* MonopolyDosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonopolyDosUITests.swift; sourceTree = "<group>"; };
 		C3D6C05920D979F7009247E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3D6C06520D97A34009247E6 /* dice3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice3.jpg; sourceTree = "<group>"; };
+		C3D6C06620D97A34009247E6 /* dice1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice1.jpg; sourceTree = "<group>"; };
+		C3D6C06720D97A34009247E6 /* dice4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice4.jpg; sourceTree = "<group>"; };
+		C3D6C06820D97A35009247E6 /* dice2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice2.jpg; sourceTree = "<group>"; };
+		C3D6C06920D97A35009247E6 /* dice5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice5.jpg; sourceTree = "<group>"; };
+		C3D6C06A20D97A35009247E6 /* dice6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +109,12 @@
 		C3D6C03620D979F7009247E6 /* MonopolyDos */ = {
 			isa = PBXGroup;
 			children = (
+				C3D6C06620D97A34009247E6 /* dice1.jpg */,
+				C3D6C06820D97A35009247E6 /* dice2.jpg */,
+				C3D6C06520D97A34009247E6 /* dice3.jpg */,
+				C3D6C06720D97A34009247E6 /* dice4.jpg */,
+				C3D6C06920D97A35009247E6 /* dice5.jpg */,
+				C3D6C06A20D97A35009247E6 /* dice6.jpg */,
 				C3D6C03720D979F7009247E6 /* AppDelegate.swift */,
 				C3D6C03920D979F7009247E6 /* ViewController.swift */,
 				C3D6C03B20D979F7009247E6 /* Main.storyboard */,
@@ -232,9 +250,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3D6C06B20D97A35009247E6 /* dice3.jpg in Resources */,
+				C3D6C06D20D97A35009247E6 /* dice4.jpg in Resources */,
+				C3D6C06F20D97A35009247E6 /* dice5.jpg in Resources */,
 				C3D6C04220D979F7009247E6 /* LaunchScreen.storyboard in Resources */,
 				C3D6C03F20D979F7009247E6 /* Assets.xcassets in Resources */,
 				C3D6C03D20D979F7009247E6 /* Main.storyboard in Resources */,
+				C3D6C06E20D97A35009247E6 /* dice2.jpg in Resources */,
+				C3D6C07020D97A35009247E6 /* dice6.jpg in Resources */,
+				C3D6C06C20D97A35009247E6 /* dice1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
